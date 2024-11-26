@@ -1,0 +1,11 @@
+{
+    "name": "minougram/classes",
+    "description": "Autoload pour le projet MinouGram",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Minougram\\Classes\\": "src/"
+        }
+    },
+    "require": {}
+}
